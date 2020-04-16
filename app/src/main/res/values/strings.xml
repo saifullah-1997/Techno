@@ -1,0 +1,32 @@
+<resources>
+
+
+
+    <string name="app_name">EASY HOME</string>
+
+    <string name="full_name">FULL NAME</string>
+
+    <string name="email">EMAIL</string>
+
+    <string name="password">PASSWORD</string>
+
+    <string name="phone">Contact No</string>
+
+    <string name="register">Register</string>
+
+    <string name="input_error_name">name required</string>
+
+    <string name="input_error_email">email required</string>
+
+    <string name="input_error_password">password required</string>
+
+    <string name="input_error_phone">phone required</string>
+
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+
+    <string name="input_error_phone_invalid">enter a valid phone number</string>
+
+    <string name="registration_success">Registered Successfully</string>
+
+    <string name="input_error_email_invalid">enter a valid email</string>
+</resources>
